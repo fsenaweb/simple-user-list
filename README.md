@@ -1,4 +1,4 @@
-# port-louis
+# Simple User List
 
 ## Project setup
 ```
